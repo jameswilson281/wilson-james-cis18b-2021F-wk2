@@ -5,5 +5,6 @@ public class Lion implements Animal {
     public String speak(){
         return "The lion roars!";
     }
+    public String getName() { return "Lion"; }
 
 }
